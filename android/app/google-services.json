@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57567981772",
+    "project_id": "note-771da",
+    "storage_bucket": "note-771da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57567981772:android:090fdc5f13c258a9e61269",
+        "android_client_info": {
+          "package_name": "com.example.dars9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDruFwAhUiEHlrNFnmXH3tDPoi0u8DA4us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
